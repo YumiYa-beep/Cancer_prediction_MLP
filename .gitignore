@@ -1,0 +1,6 @@
+"# GitHub cannot host files >100MB" 
+"*.zip" 
+"*.csv" 
+"*.h5" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
